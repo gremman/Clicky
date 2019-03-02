@@ -3,7 +3,7 @@
 ## Overview
 A memorization game built using Create React.
 
-![Donut Memory Game](./images/donut.png)
+![Donut Memory Game](./src/images/donut.png)
 
 ## Instructions
 
